@@ -8,10 +8,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farheen-dev" alt="farheen-dev"/></a> </p>
 
 - 🌱 I’m currently learning **React Native**
+  
+- 💬 Ask me about **Javascript, React, Java**
 
 - 📫 How to reach me **farheenaa190@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I like to read sci-fi, adventurous, thriller type of novel stories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
