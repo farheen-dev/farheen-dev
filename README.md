@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **Javascript, React, Java**
 
-- 📫 How to reach me **farheenaa190@gmail.com**
+- 📫 How to reach me **dev.farheen.se@gmail.com**
 
 - ⚡ Fun fact **I like to read sci-fi, adventurous, thriller type of novel stories**
 
