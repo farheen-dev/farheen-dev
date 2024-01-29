@@ -9,7 +9,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=farheen-dev" alt="farheen-dev"/></a></a></p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & Angular**
   
 - 💬 Ask me about **Javascript, React, Java**
 
