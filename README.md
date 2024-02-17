@@ -12,6 +12,10 @@
 - 🌱 I’m currently learning **React Native & Angular**
   
 - 💬 Ask me about **Javascript, React, Java**
+  
+- 👨‍💻 All of my projects are available at [portfolio](https://farheen-dev.github.io/portfolio/)
+
+- 📄 Know about my experiences [resume](https://farheen-dev.github.io/portfolio/assets/cv/Farheen%20Boosary%20-%20CV.pdf)
 
 - 📫 How to reach me **dev.farheen.se@gmail.com**
 
