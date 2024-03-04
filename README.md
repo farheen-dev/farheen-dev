@@ -23,8 +23,8 @@
 
 <h3 align="left"><a href="#">&#x200B;</a>Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farheenboosary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile of farheen boosary" height="30" width="40" target="_blank" /></a>
-<a href="https://www.hackerrank.com/profile/farheen99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank profile of farheen boosary" height="30" width="40" target="_blank" /></a>
+<a href="https://linkedin.com/in/farheenboosary" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile of farheen boosary" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/farheen99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank profile of farheen boosary" height="30" width="40" /></a>
 </p>
 </p>
 
